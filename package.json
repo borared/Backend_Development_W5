@@ -1,0 +1,7 @@
+{
+  "name": "practicing-5-backend",
+  "version": "1.0.0",
+  "scripts": {
+    "server": "npx json-server@0.17.4 --watch db.json --port 5000"
+  }
+}

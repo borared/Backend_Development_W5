@@ -1,0 +1,56 @@
+{
+  "articles": [
+    {
+      "id": "1",
+      "title": "First Article",
+      "journalistId": "1",
+      "categoryId": "1"
+    },
+    {
+      "id": "2",
+      "title": "Second Article",
+      "journalistId": "2",
+      "categoryId": "2"
+    },
+    {
+      "id": "3",
+      "title": "Third Article",
+      "journalistId": "1",
+      "categoryId": "3"
+    },
+    {
+      "id": "4",
+      "title": "Fourth Article",
+      "journalistId": "3",
+      "categoryId": "1"
+    }
+  ],
+  "journalists": [
+    {
+      "id": "1",
+      "name": "Journalist #1"
+    },
+    {
+      "id": "2",
+      "name": "Journalist #2"
+    },
+    {
+      "id": "3",
+      "name": "Journalist #3"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Category #1"
+    },
+    {
+      "id": "2",
+      "name": "Category #2"
+    },
+    {
+      "id": "3",
+      "name": "Category #3"
+    }
+  ]
+}

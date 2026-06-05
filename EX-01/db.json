@@ -1,0 +1,42 @@
+{
+  "articles": [
+    {
+      "id": "1",
+      "title": "React 19 Released",
+      "content": "React 19 is now out with many new features.",
+      "journalistId": "1",
+      "categoryId": "2"
+    },
+    {
+      "title": "sdf",
+      "content": "asdfasf",
+      "journalistId": "1",
+      "categoryId": "1",
+      "id": "LYmK_ofupD8"
+    },
+    {
+      "title": "sdfg",
+      "content": "sdgdsfg",
+      "journalistId": "2",
+      "categoryId": "1",
+      "id": "iXPUR2BceIQ"
+    }
+  ],
+  "journalists": [
+    {
+      "id": "1",
+      "name": "John Doe"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Politics"
+    },
+    {
+      "id": "2",
+      "name": "Tech"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
